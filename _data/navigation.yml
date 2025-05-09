@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "محصولات"
+    url: /products/
+  - title: "درباره ما"
+    url: /about/
+  - title: "ارتباط با ما"
+    url: /contact/
+  - title: "ماموریت ما"
+    url: /mission/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
